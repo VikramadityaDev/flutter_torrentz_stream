@@ -1,7 +1,7 @@
 
 # Flutter Torrentz Stream
 
-[![pub](https://img.shields.io/pub/v/flutter_torrent_streamer.svg)](https://pub.dev/packages/flutter_torrentz_stream)
+[![pub](https://img.shields.io/pub/v/flutter_torrentz_stream.svg)](https://pub.dev/packages/flutter_torrentz_stream)
 
 A flutter plugin to stream videos directly from torrentz magnet links.
 
